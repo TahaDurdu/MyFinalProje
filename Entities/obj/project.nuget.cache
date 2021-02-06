@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MadnsEzULAD/kLuHsQg3tH6DT6HR8wGZBRqdnVMTimGvrmFkfWMuD5Q/jDc4iGBSeyZ3bfnn/LshMlJ22P8B+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAVAS\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAVAS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SAVAS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
